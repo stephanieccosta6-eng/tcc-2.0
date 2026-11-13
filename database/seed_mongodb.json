@@ -1,0 +1,9 @@
+{
+  "database": "glowup_tcc",
+  "products": [
+    { "name": "Sérum Vitamina C 10% Pura", "tag": "Conservação 5°C", "price": 89.90 },
+    { "name": "Gel Hidratante Ácido Hialurônico", "tag": "Todos os tipos", "price": 74.50 },
+    { "name": "Espuma de Limpeza Micelar", "tag": "pH Fisiológico", "price": 49.90 },
+    { "name": "Protetor Solar Invisível FPS 60", "tag": "Toque Seco", "price": 65.00 }
+  ]
+}

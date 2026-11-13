@@ -1,0 +1,9 @@
+{
+    "name": "GlowUp",
+    "short_name": "GlowUp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FAF7F5",
+    "theme_color": "#BE185D",
+    "description": "Aplicativo GlowUp Skincare & GlowFridge IoT"
+}
